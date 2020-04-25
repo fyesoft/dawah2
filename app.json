@@ -1,0 +1,17 @@
+{
+  "name": "dawah2",
+  "displayName": "dawah2",
+  "expo": {
+    "name": "dawah2",
+    "slug": "dawah2",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
